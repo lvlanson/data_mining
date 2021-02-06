@@ -1,0 +1,16 @@
+Alternative;Fr/Sa;Hungrig;Gäste;Reservierung;Typ;Zeit;Warten
+ja;nein;ja;einige;ja;Franz.;0–10;ja
+ja;nein;ja;voll;nein;Chin.;30–60;nein
+nein;nein;nein;einige;nein;Burger;0–10;ja
+ja;ja;ja;voll;nein;Chin.;10–30;ja
+ja;ja;nein;voll;ja;Franz.;>60;nein
+nein;nein;ja;einige;ja;Ital.;0–10;ja
+nein;nein;nein;keine;nein;Burger;0–10;nein
+nein;nein;ja;einige;ja;Chin.;0–10;ja
+nein;ja;nein;voll;nein;Burger;>60;nein
+ja;ja;ja;voll;ja;Ital.;10–30;nein
+nein;nein;nein;keine;nein;Chin.;0–10;nein
+ja;ja;ja;voll;nein;Burger;30–60;ja
+ja;nein;ja;einige;nein;Franz.;30–60;
+ja;ja;ja;voll;ja;Chin.;10–30;
+nein;nein;nein;keine;nein;Burger;0–10;
